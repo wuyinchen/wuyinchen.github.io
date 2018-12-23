@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -59,3 +60,6 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
+=======
+theme: jekyll-theme-hacker
+>>>>>>> fd46c9279636d5cf35552886c0e316ba31d0af14
