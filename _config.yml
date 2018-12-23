@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -8,7 +7,7 @@
 
 # Site settings
 title: rexlin600
-brief-intro: Android and Python Coder
+brief-intro: Java and Go Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rexlin600.github.io" # the base hostname & protocol for your site
 
@@ -17,12 +16,12 @@ permalink: /:year/:month/:day/:title/
 # other links
 # twitter_username: nil
 # facebook_username: nil
-github_username:  rexlin600
+github_username: rexlin600
 email: 3072054267@qq.com
 weibo_username: 人字旁那个何
 # zhihu_username: nil
-# linkedIn_username: 
-dribbble_username:
+# linkedIn_username:
+dribbble_username: rexlin600
 
 description_footer: 来自「朱颜」的分享
 
@@ -60,6 +59,3 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
-=======
-theme: jekyll-theme-hacker
->>>>>>> fd46c9279636d5cf35552886c0e316ba31d0af14
