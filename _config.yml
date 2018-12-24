@@ -6,29 +6,29 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: rexlin600
-brief-intro: Java and Go Coder
+title: wuyinchen
+brief-intro: Web
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rexlin600.github.io" # the base hostname & protocol for your site
+url: "https://wuyinchen.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 # twitter_username: nil
 # facebook_username: nil
-github_username: rexlin600
-email: 3072054267@qq.com
-weibo_username: 人字旁那个何
+github_username: wuyinchen
+email: 498845986@qq.com
+weibo_username: 勒布朗_Uzi
 # zhihu_username: nil
 # linkedIn_username:
 
-description_footer: 来自「朱颜」的分享
+description_footer: 来自「WYC」的分享
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 # duoshuo_shortname: rexlin600
-disqus_shortname: rexlin600
+disqus_shortname: wuyinchen
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
